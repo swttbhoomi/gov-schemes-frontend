@@ -1,6 +1,5 @@
-"homepage": 
-"https://swttbhoomi.github.io/gov-schemes-frontend",
-// {
+{
+  "homepage": "https://swttbhoomi.github.io/gov-schemes-frontend",
   "name": "udaanpathreact",
   "private": true,
   "version": "0.0.0",

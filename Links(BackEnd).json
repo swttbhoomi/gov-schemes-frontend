@@ -20,7 +20,8 @@
       ],
       "cons": [
         "Usually not full-cost funding"
-      ]
+      ],
+      "eligibility": "Students from Class 1 to PG; Min 60% marks in previous class; Family income ≤ ₹6 Lakh per annum."
     },
     {
       "name": "AICTE Pragati Scholarship",
@@ -33,13 +34,16 @@
         "Course must be degree or diploma in technical education.",
         "Family income should not exceed 8 lakh per year.",
         "Maximum two girls per family can apply."
-      ]
+      ],
+      "category": "scholarship",
+      "gender": "girls_only",
+      "eligibility": "Girl students in 1st year (or 2nd year lateral entry) of Degree/Diploma in AICTE colleges; Family income ≤ ₹8 Lakh per annum."
     },
     {
       "name": "Ayushman Bharat Yojana",
       "link": "https://pmjay.gov.in/",
-      "description": "Free health insurance of ₹5 lakh per family for secondary and tertiary hospitalization at empanelled hospitals.",
-      "eligibility": "BPL Families"
+      "description": "Free health insurance of ₹5 lakh per family for secondary and tertiary hospitalization.",
+      "eligibility": "Families listed in SECC-2011 database; BPL (Below Poverty Line) card holders; specific occupational groups in urban areas."
     },
     {
       "name": "Bank education loans under IBA norms",
@@ -49,14 +53,15 @@
       "time": "ug_to_abroad",
       "features": [
         "Loans for higher education",
-        "Collateral and moratorium rules vary"
+        "Collateral rules vary per bank"
       ],
       "pros": [
         "Can fund large education costs"
       ],
       "cons": [
         "Interest burden without subsidy"
-      ]
+      ],
+      "eligibility": "Indian Nationals; Secured admission in India or abroad via entrance/merit; No age bar generally; Repayment capacity of parents."
     },
     {
       "name": "Begum Hazrat Mahal National Scholarship",
@@ -73,7 +78,8 @@
       ],
       "cons": [
         "Restricted to minority girls"
-      ]
+      ],
+      "eligibility": "Girl students from Minority communities (Muslim, Christian, Sikh, etc.); Class 9 to 12; Min 50% marks; Family income ≤ ₹2 Lakh."
     },
     {
       "name": "Central Sector Interest Subsidy (CSIS)",
@@ -82,14 +88,16 @@
       "income": "up_to_4_5_lakh",
       "time": "course_period_plus_moratorium",
       "features": [
-        "Government pays interest during study/moratorium"
+        "Interest paid by government during study period + 1 year"
       ],
       "pros": [
         "Large repayment relief"
       ],
       "cons": [
         "Usually limited to eligible technical/professional courses"
-      ]
+      ],
+      "link": "https://www.education.gov.in/en/central-scheme-provide-interest-subsidy-csis-educational-loans",
+      "eligibility": "EWS students; Family income ≤ ₹4.5 Lakh; Admitted to recognized technical/professional courses in India; Loan from scheduled banks."
     },
     {
       "name": "Central Sector Interest Subsidy Scheme (CSIS)",
@@ -161,8 +169,8 @@
     {
       "name": "Digital India Programme",
       "link": "https://www.digitalindia.gov.in/",
-      "description": "Umbrella programme to transform India into a digitally empowered society with e-governance and digital literacy.",
-      "eligibility": "All Citizens"
+      "description": "Umbrella programme for a digitally empowered society.",
+      "eligibility": "All Indian Citizens; Focus on digital literacy and e-governance access."
     },
     {
       "name": "Dr. Ambedkar Central Sector Scheme of Interest Subsidy",
@@ -171,14 +179,15 @@
       "income": "category_based",
       "time": "pg_mphil_phd",
       "features": [
-        "Interest subsidy for higher studies"
+        "Interest subsidy on overseas education loans"
       ],
       "pros": [
         "Useful for advanced study"
       ],
       "cons": [
         "Category-restricted"
-      ]
+      ],
+      "eligibility": "OBC and EBC students; Pursuing Overseas Masters/M.Phil/PhD; Family income ≤ ₹5 Lakh (OBC) or ≤ ₹2.5 Lakh (EBC)."
     },
     {
       "name": "HDFC Bank Parivartan ECSS",
@@ -187,15 +196,15 @@
       "income": "often_under_2_5_lakh",
       "time": "class_1_to_pg",
       "features": [
-        "Crisis-oriented aid",
-        "Supports school to PG students"
+        "Crisis-oriented financial aid"
       ],
       "pros": [
         "Broad level coverage"
       ],
       "cons": [
         "Needs proof of financial crisis"
-      ]
+      ],
+      "eligibility": "Students from Class 1 to PG; Facing crisis (death of parent/medical emergency/natural disaster); Family income ≤ ₹2.5 Lakh; Min 55% marks."
     },
     {
       "name": "HDFC Educational Crisis Scholarship",
@@ -215,27 +224,28 @@
       "income": "not_always_income_based",
       "time": "pg_or_phd",
       "features": [
-        "For single girl child families",
-        "Supports advanced study"
+        "Support for advanced PG study"
       ],
       "pros": [
         "Good for higher education"
       ],
       "cons": [
         "Very specific family condition"
-      ]
+      ],
+      "eligibility": "Only girl child in the family; Admitted to 1st year full-time PG course in a recognized university; Age limit up to 30 years."
     },
     {
-      "name": "INSPIRE Scholarship",
+      "name": "INSPIRE Scholarship (SHE)",
       "link": "https://online-inspire.gov.in/",
-      "provider": "DST, Govt. of India",
-      "description": "For students pursuing BSc, BS, or integrated MS courses in natural and basic sciences.",
+      "provider": "DST",
+      "description": "Scholarship for Higher Education in natural and basic sciences.",
       "eligibility_criteria": [
         "Student must be among the top 1% performers in Class 12 board examinations.",
         "Must pursue BSc, BS, or Integrated MSc/MS in natural sciences.",
         "Course must be taken in a recognized university or institute in India.",
         "Age generally between 17-22 years."
-      ]
+      ],
+      "eligibility": "Top 1% in Class 12 Board; Pursuing Natural/Basic Sciences (B.Sc/M.Sc); Age 17-22 years; or JEE/NEET/KVPY rankers."
     },
     {
       "name": "Ishan Uday Scholarship",
@@ -244,24 +254,24 @@
       "income": "income_conditions_apply",
       "time": "ug_in_north_east",
       "features": [
-        "Support for North-Eastern region students"
+        "Specific support for NER students"
       ],
       "pros": [
         "Regional higher-education support"
       ],
       "cons": [
         "Restricted to NE students"
-      ]
+      ],
+      "eligibility": "Domicile of North Eastern States (NER); Pursuing first degree course; Family income ≤ ₹4.5 Lakh; Passing Class 12 equivalent."
     },
     {
       "name": "Kasturba Gandhi Balika Vidyalaya (KGBV)",
-      "category": "residential_support_program",
+      "category": "residential_schooling",
       "gender": "girls_only",
       "income": "disadvantaged_families",
       "time": "age_10_to_18",
       "features": [
-        "Residential schooling",
-        "Meals, books, uniforms"
+        "Residential schooling, meals, and books"
       ],
       "pros": [
         "Very strong support for rural girls"
@@ -269,19 +279,21 @@
       "cons": [
         "Not direct cash support",
         "Location-limited"
-      ]
+      ],
+      "eligibility": "Girls from SC, ST, OBC, Minority communities, or BPL families; Aged 10-18; Focus on out-of-school/dropout girls in rural blocks."
     },
     {
-      "name": "Kishore Vaigyanik Protsahan Yojana",
+      "name": "Kishore Vaigyanik Protsahan Yojana (KVPY)",
       "link": null,
       "provider": "IISc Bangalore",
-      "description": "Fellowship to encourage students to take up research careers in science and technology.",
+      "description": "Fellowship for research careers in Science and Tech.",
       "eligibility_criteria": [
         "Student must have strong interest in science research.",
         "Must be studying in Class 11, 12, or undergraduate science courses.",
         "Must qualify the KVPY aptitude test and interview.",
         "Must maintain required minimum marks in science subjects."
-      ]
+      ],
+      "eligibility": "Class 11, 12 or 1st year UG (Science); Must clear KVPY Aptitude Test and Interview; Min 60-75% in Science/Maths based on stream."
     },
     {
       "name": "Kotak Kanya Scholarship",
@@ -290,30 +302,32 @@
       "income": "merit_cum_means",
       "time": "ug_professional_courses",
       "features": [
-        "Supports girl students in higher education"
+        "High-value aid for professional degrees"
       ],
       "pros": [
         "High-value girl-focused aid"
       ],
       "cons": [
         "Highly selective"
-      ]
+      ],
+      "eligibility": "Girl students admitted to first-year UG (Professional courses like Engg, Medical, Law); Family income ≤ ₹6 Lakh; Min 85% in Class 12."
     },
     {
-      "name": "L'Oréal India For Young Women in Science Scholarship",
+      "name": "L'Oréal India For Young Women in Science",
       "category": "scholarship",
       "gender": "women_only",
       "income": "merit_based",
       "time": "ug_to_phd",
       "features": [
-        "For women in science education"
+        "Support for women in STEM"
       ],
       "pros": [
         "Strong STEM support"
       ],
       "cons": [
         "Restricted to science streams"
-      ]
+      ],
+      "eligibility": "Women passed Class 12 Science in current year; Min 85% in PCB/PCM; Family income ≤ ₹6 Lakh; Pursuing UG in Science/Medical/Engg."
     },
     {
       "name": "Merit-cum-Means Scholarship for Professional and Technical Courses",
@@ -339,8 +353,7 @@
       "income": "economically_weaker_students",
       "time": "after_class_8",
       "features": [
-        "Helps students continue secondary education",
-        "Merit plus means support"
+        "Secondary education support to prevent dropouts"
       ],
       "pros": [
         "Reduces dropout risk",
@@ -348,20 +361,22 @@
       ],
       "cons": [
         "Competitive"
-      ]
+      ],
+      "eligibility": "Class 9 students; Qualified through NMMS exam; Family income ≤ ₹3.5 Lakh; Studying in Govt/Aided schools."
     },
     {
       "name": "National Scholarship Portal (NSP)",
       "link": "https://scholarships.gov.in/",
       "provider": "Government of India",
-      "description": "Central portal for all government scholarship schemes including pre-matric, post-matric and merit-cum-means.",
+      "description": "Single point application for multiple Govt schemes.",
       "eligibility_criteria": [
         "Applicant must be an Indian citizen.",
         "Must be studying in recognized schools or colleges in India.",
         "Family income limit depends on the specific scholarship scheme.",
         "Student must satisfy academic performance requirements.",
         "Aadhaar number and bank account are usually required."
-      ]
+      ],
+      "eligibility": "Varies by scheme (Pre-matric, Post-matric, MCM); Generally requires being a regular student and meeting specific income/category norms."
     },
     {
       "name": "National Scholarship Portal (NSP) schemes",
@@ -404,8 +419,8 @@
     {
       "name": "PM Kisan Samman Nidhi",
       "link": "https://pmkisan.gov.in/",
-      "description": "₹6,000/year financial support to farmer families across India in three equal installments of ₹2,000 each.",
-      "eligibility": "Small & Marginal Farmers"
+      "description": "₹6,000/year direct income support.",
+      "eligibility": "Small and Marginal Farmer families with cultivable landholding; Excludes institutional landholders and taxpayers."
     },
     {
       "name": "PM Vidyalaxmi / PM-Vidyalakshmi",
@@ -425,20 +440,19 @@
       ]
     },
     {
-      "name": "PM-Vidyalaxmi Scheme",
+      "name": "PM-Vidyalaxmi Scheme (Loan)",
       "link": "https://www.education.gov.in/en/scholarships-education-loan-4",
       "description": "Provides collateral-free and guarantor-free education loans to students pursuing higher education in India.",
       "features": [
-        "Education loans up to ₹10 lakh",
-        "3% interest subsidy for families with income up to ₹8 lakh per year",
-        "Online application through the Vidya Lakshmi portal"
+        "Collateral-free loans up to ₹10 lakh"
       ],
       "eligibility_criteria": [
         "Indian citizen",
         "Admission in recognized higher education institution in India based on merit/entrance",
         "Application through Vidya Lakshmi Portal",
         "Family income up to ₹8 lakh for subsidy"
-      ]
+      ],
+      "eligibility": "Admitted to top 860+ Quality Higher Education Institutions (QHEI); Interest subsidy for family income ≤ ₹8 Lakh; Indian citizen."
     },
     {
       "name": "PM-YASASVI / OBC-EBC-DNT scholarships",
@@ -509,25 +523,24 @@
       "income": "income_based",
       "time": "class_11_onward",
       "features": [
-        "Support for benchmark disabilities",
-        "Education-cost assistance"
+        "Maintenance and tuition fees for PwD"
       ],
       "pros": [
         "Important accessibility support"
       ],
       "cons": [
         "Needs disability certification"
-      ]
+      ],
+      "eligibility": "Benchmark disability (40%+); Family income ≤ ₹2.5 Lakh; Pursuing Class 11 to PG; Disability certificate from medical authority required."
     },
     {
-      "name": "Pragati Scholarship Scheme for Girl Students",
+      "name": "Pragati Scholarship Scheme",
       "category": "scholarship",
       "gender": "girls_only",
       "income": "typically_up_to_8_lakh",
       "time": "aicte_technical_diploma_or_degree",
       "features": [
-        "For girl students in technical education",
-        "Annual support"
+        "Technical education financial aid"
       ],
       "pros": [
         "Excellent for girls in technical fields"
@@ -535,7 +548,8 @@
       "cons": [
         "Only for AICTE-approved institutions",
         "Limited seats"
-      ]
+      ],
+      "eligibility": "Girl students in AICTE colleges; Degree/Diploma 1st year; Family income ≤ ₹8 Lakh; Max 2 girls per family."
     },
     {
       "name": "Pre-Matric Minority Scholarship",
@@ -607,9 +621,7 @@
       "income": "low_to_middle_income",
       "time": "first_year_ug",
       "features": [
-        "Up to 2 lakh over the degree",
-        "Merit-cum-means",
-        "Multi-year support"
+        "Up to ₹2 Lakh over the degree"
       ],
       "pros": [
         "High value",
@@ -619,7 +631,8 @@
       "cons": [
         "Very competitive",
         "First-year only"
-      ]
+      ],
+      "eligibility": "1st year UG students in any stream; Min 60% in Class 12; Family income ≤ ₹15 Lakh; Resident Indian."
     },
     {
       "name": "Santoor Women's Scholarship",
@@ -628,7 +641,7 @@
       "income": "need_based",
       "time": "ug",
       "features": [
-        "Supports women from underprivileged backgrounds"
+        "Support for first-gen learners"
       ],
       "pros": [
         "Helpful for first-generation learners"
@@ -636,7 +649,8 @@
       "cons": [
         "Limited seats",
         "May have geography restrictions"
-      ]
+      ],
+      "eligibility": "Women from disadvantaged backgrounds; Passed Class 10/12 from Govt school; Pursuing 3-year UG course; Karnataka/AP/Telangana/Chhattisgarh."
     },
     {
       "name": "Sitaram Jindal Foundation",
@@ -651,45 +665,46 @@
       ]
     },
     {
-      "name": "Skill India Mission",
+      "name": "Skill India Mission / PMKVY",
       "category": "skill_program",
       "gender": "all",
       "income": "open",
       "time": "short_term_to_job_ready",
       "features": [
-        "National skilling ecosystem",
-        "Certifications and training"
+        "Short-term vocational training and certification"
       ],
       "pros": [
         "Strong employability focus"
       ],
       "cons": [
         "Quality varies by provider"
-      ]
+      ],
+      "eligibility": "Indian youth (15-45 years); Unemployed or school/college dropouts; Aadhaar-seeded bank account; Specific criteria per course."
     },
     {
       "name": "Startup India Scheme",
       "link": "https://www.startupindia.gov.in/",
-      "description": "Tax exemptions, funding support, and simplified compliance for DPIIT-recognized startups in India.",
-      "eligibility": "DPIIT Recognized Startups"
+      "description": "Tax exemptions and funding support for startups.",
+      "eligibility": "DPIIT Recognized Startup; Entity age < 10 years; Turnover < ₹100 Crore; Innovation/improvement focus."
     },
     {
       "name": "Sukanya Samriddhi Yojana",
       "link": "https://india.gov.in",
-      "description": "Savings scheme for girl child with high interest rate of 8.2% and tax benefits under Section 80C.",
-      "eligibility": "Girl Child (0-10 yrs)"
+      "description": "Savings scheme for girl child with tax benefits.",
+      "eligibility": "Girl child aged 0-10 years; Account opened by parents/legal guardian; Resident Indian."
     },
     {
-      "name": "Swami Vivekananda Scholarship",
+      "name": "Swami Vivekananda Scholarship (SVMCM)",
       "link": null,
       "provider": "West Bengal Govt",
-      "description": "State government scholarship for meritorious students from economically weaker sections.",
+      "description": "Merit-cum-means scholarship for WB students.",
       "eligibility_criteria": [
         "Student must be a resident of West Bengal.",
         "Must have minimum required marks in previous examination (usually around 60%).",
         "Family income should be below 2.5 lakh per year.",
         "Must be studying in recognized institutions."
-      ]
+      ],
+      "eligibility": "Domicile of West Bengal; Min 60% marks in previous exam; Family income ≤ ₹2.5 Lakh; Pursuing UG/PG/Professional courses."
     },
     {
       "name": "Swanath Scholarship Scheme",
@@ -698,8 +713,7 @@
       "income": "need_based",
       "time": "diploma_or_degree",
       "features": [
-        "For orphans and vulnerable students",
-        "Social protection support"
+        "Social protection for vulnerable students"
       ],
       "pros": [
         "Useful for difficult family situations"
@@ -707,29 +721,65 @@
       "cons": [
         "Narrow eligibility",
         "Documentation-heavy"
-      ]
+      ],
+      "eligibility": "Orphans / Children of parents who died of COVID-19 / Wards of Armed Forces/Paramilitary martyred; Admitted to AICTE Degree/Diploma."
     },
     {
       "name": "Tata Trusts Scholarships",
       "link": "https://www.tatatrusts.org/",
       "provider": "Tata Trusts",
-      "description": "Need-based scholarships covering tuition, living expenses, and books for meritorious students.",
+      "description": "Need and merit-based tuition support.",
       "eligibility_criteria": [
         "Applicant must be an Indian student.",
         "Must show financial need.",
         "Must have good academic performance.",
         "Admission must be in recognized institutions in India or abroad."
-      ]
+      ],
+      "eligibility": "Indian students pursuing Bachelor's, Master's or Specializations (Medical, Nursing, etc.); Merit-based; Specific cut-offs apply per stream."
     },
     {
-      "name": "Vidya Lakshmi Portal",
+      "name": "PM Vidyalaxmi / Vidya Lakshmi Portal",
       "link": "https://www.vidyalakshmi.co.in",
-      "description": "A government platform to apply for education loans from multiple banks using one application.",
+      "description": "Portal to apply for loans to multiple banks via one form.",
       "eligibility_criteria": [
         "Register on portal",
         "Fill Common Education Loan Application Form (CELAF)",
         "Confirmed admission in recognized institution",
         "Submission of ID proof, academic records, and admission proof"
+      ],
+      "eligibility": "Indian Citizen; Secured admission in Higher Education; Register on portal and fill Common Education Loan Application Form (CELAF)."
+    },
+    {
+      "name": "Central Sector Scheme of Scholarship (PM-USP)",
+      "link": "https://scholarships.gov.in",
+      "category": "scholarship",
+      "eligibility": "Top 20th percentile of successful candidates in relevant Class 12 board; Family income ≤ ₹4.5 Lakh; Pursuing regular UG/PG course.",
+      "features": [
+        "₹12,000/year for UG",
+        "₹20,000/year for PG"
+      ]
+    },
+    {
+      "name": "Credit Guarantee Fund Scheme (CGFSEL)",
+      "link": "https://www.education.gov.in/en/scholarships-education-loan-4",
+      "category": "loan_guarantee",
+      "eligibility": "Education loans up to ₹7.5 Lakh; No collateral or third-party guarantee required; Admitted to recognized higher education courses.",
+      "description": "Government provides guarantee support to banks to allow collateral-free loans."
+    },
+    {
+      "name": "Merit-cum-Means Scholarship (Minorities)",
+      "category": "scholarship",
+      "eligibility": "Minority communities; Pursuing Professional/Technical courses; Min 50% in previous exam; Family income ≤ ₹2.5 Lakh.",
+      "features": [
+        "Tuition and maintenance support"
+      ]
+    },
+    {
+      "name": "PM-YASASVI Scholarship",
+      "category": "scholarship",
+      "eligibility": "OBC, EBC, and DNT students; Class 9 or 11; Family income ≤ ₹2.5 Lakh; Must pass the YASASVI Entrance Test.",
+      "features": [
+        "Support for SEBC students"
       ]
     }
   ],

@@ -5,7 +5,7 @@ const SchemesContext = createContext();
 
 export const SchemesProvider = ({ children }) => {
     const [schemes, setSchemes] = useState(() => {
-        const stored = localStorage.getItem('udaanpathSchemes_v3');
+        const stored = localStorage.getItem('udaanpathSchemes_v5');
         if (stored) return JSON.parse(stored);
 
         // Normalize backend data exactly once when initializing
@@ -37,7 +37,7 @@ export const SchemesProvider = ({ children }) => {
     });
 
     useEffect(() => {
-        localStorage.setItem('udaanpathSchemes_v3', JSON.stringify(schemes));
+        localStorage.setItem('udaanpathSchemes_v5', JSON.stringify(schemes));
     }, [schemes]);
 
     const addScheme = (newScheme) => {
