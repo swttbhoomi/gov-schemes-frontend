@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Udaanpath - Schemes</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">Udaanpath</div>
+            <ul class="nav-links" id="main-nav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="schemes.html" class="active">Schemes</a></li>
+                <li><a href="eligibility.html">Eligibility</a></li>
+                <li><a href="about.html">About</a></li>
+                <li id="nav-dashboard" style="display: none;"><a href="dashboard.html">Dashboard</a></li>
+                <li id="nav-login"><a href="login.html" class="btn-nav">Login</a></li>
+                <li id="nav-logout" style="display: none;"><a href="#" onclick="logoutUser(event)">Logout</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="schemes-page">
+        <div class="container">
+            <aside class="sidebar">
+                <h3>Filters</h3>
+                <div class="filter-group">
+                    <label for="search">Search</label>
+                    <input type="text" id="search" placeholder="Search schemes...">
+                </div>
+                <div class="filter-group">
+                    <label for="type">Type</label>
+                    <select id="type">
+                        <option value="">All</option>
+                        <option value="Scholarship">Scholarship</option>
+                        <option value="Internship">Internship</option>
+                        <option value="Loan">Loan</option>
+                        <option value="Course">Course</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="state">State</label>
+                    <select id="state">
+                        <option value="">All</option>
+                        <option value="All">All India</option>
+                        <option value="Maharashtra">Maharashtra</option>
+                        <option value="Delhi">Delhi</option>
+                        <option value="Karnataka">Karnataka</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="income">Income Range</label>
+                    <select id="income">
+                        <option value="">All</option>
+                        <option value="Below 3L">Below 3L</option>
+                        <option value="Below 5L">Below 5L</option>
+                        <option value="Above 5L">Above 5L</option>
+                    </select>
+                </div>
+            </aside>
+            <section class="schemes-list">
+                <div class="schemes-grid" id="schemes-grid">
+                    <!-- Dynamically loaded -->
+                </div>
+                <div id="no-results" class="no-results" style="display: none;">
+                    <p>No schemes found matching your criteria.</p>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <ul class="footer-links">
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <p>&copy; 2024 Udaanpath. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

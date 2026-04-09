@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Udaanpath - Home</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">Udaanpath</div>
+            <ul class="nav-links" id="main-nav">
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="schemes.html">Schemes</a></li>
+                <li><a href="eligibility.html">Eligibility</a></li>
+                <li><a href="about.html">About</a></li>
+                <li id="nav-dashboard" style="display: none;"><a href="dashboard.html">Dashboard</a></li>
+                <li id="nav-login"><a href="login.html" class="btn-nav">Login</a></li>
+                <li id="nav-logout" style="display: none;"><a href="#" onclick="logoutUser(event)">Logout</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Find Government Schemes Easily</h1>
+            <p>Scholarships, internships, loans and more in one place</p>
+            <a href="schemes.html" class="cta-button">Explore Schemes</a>
+        </div>
+    </section>
+
+    <section class="categories">
+        <div class="container">
+            <h2>Categories</h2>
+            <div class="category-grid">
+                <div class="category-card">
+                    <h3>Scholarships</h3>
+                    <p>Financial aid for education</p>
+                </div>
+                <div class="category-card">
+                    <h3>Internships</h3>
+                    <p>Gain experience and skills</p>
+                </div>
+                <div class="category-card">
+                    <h3>Loans</h3>
+                    <p>Educational financing options</p>
+                </div>
+                <div class="category-card">
+                    <h3>Courses</h3>
+                    <p>Free and subsidized training</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="featured-schemes">
+        <div class="container">
+            <h2>Featured Schemes</h2>
+            <div class="schemes-grid" id="featured-grid">
+                <!-- Dynamically loaded -->
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <ul class="footer-links">
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <p>&copy; 2024 Udaanpath. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

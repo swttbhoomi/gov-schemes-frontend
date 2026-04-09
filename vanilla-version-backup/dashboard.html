@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Udaanpath - My Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">Udaanpath</div>
+            <ul class="nav-links" id="main-nav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="schemes.html">Schemes</a></li>
+                <li><a href="eligibility.html">Eligibility</a></li>
+                <li><a href="about.html">About</a></li>
+                <li id="nav-dashboard" style="display: none;"><a href="dashboard.html" class="active">Dashboard</a></li>
+                <li id="nav-login"><a href="login.html" class="btn-nav">Login</a></li>
+                <li id="nav-logout" style="display: none;"><a href="#" onclick="logoutUser(event)">Logout</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="dashboard-page">
+        <div class="container">
+            <h1 style="color: #007bff; margin-bottom: 0.5rem;">My Dashboard</h1>
+            <p style="margin-bottom: 2rem;">Welcome back, <span id="user-name-display" style="font-weight: 600;">User</span>! Here are the schemes you have saved.</p>
+            
+            <div class="schemes-grid" id="saved-schemes-grid">
+                <!-- Dynamically loaded -->
+            </div>
+            <div id="no-saved-schemes" class="no-results" style="display: none;">
+                <p>You haven't saved any schemes yet. Go explore!</p>
+                <br>
+                <a href="schemes.html" class="btn">Explore Schemes</a>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p style="text-align: center;">&copy; 2024 Udaanpath. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

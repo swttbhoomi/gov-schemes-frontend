@@ -1,0 +1,1419 @@
+{
+  "note": "Merged from Govt_Schemes.json and Govt.Schemes.json",
+  "merged_on": "2026-04-09",
+  "sources": [
+    "Govt_Schemes.json",
+    "Govt.Schemes.json"
+  ],
+  "schemes": [
+    {
+      "name": "Aditya Birla Capital Scholarship",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "need_based_and_merit_based",
+      "time": "school_to_pg",
+      "features": [
+        "One-time financial support"
+      ],
+      "pros": [
+        "Useful for partial fee support"
+      ],
+      "cons": [
+        "Usually not full-cost funding"
+      ]
+    },
+    {
+      "name": "AICTE Pragati Scholarship",
+      "link": "https://www.aicte.gov.in/",
+      "provider": "AICTE",
+      "description": "Scholarship for girl students pursuing technical education in AICTE approved colleges.",
+      "eligibility_criteria": [
+        "Applicant must be a female student.",
+        "Must be admitted to AICTE-approved technical institutions.",
+        "Course must be degree or diploma in technical education.",
+        "Family income should not exceed 8 lakh per year.",
+        "Maximum two girls per family can apply."
+      ]
+    },
+    {
+      "name": "Ayushman Bharat Yojana",
+      "link": "https://pmjay.gov.in/",
+      "description": "Free health insurance of ₹5 lakh per family for secondary and tertiary hospitalization at empanelled hospitals.",
+      "eligibility": "BPL Families"
+    },
+    {
+      "name": "Bank education loans under IBA norms",
+      "category": "loan",
+      "gender": "all",
+      "income": "varies",
+      "time": "ug_to_abroad",
+      "features": [
+        "Loans for higher education",
+        "Collateral and moratorium rules vary"
+      ],
+      "pros": [
+        "Can fund large education costs"
+      ],
+      "cons": [
+        "Interest burden without subsidy"
+      ]
+    },
+    {
+      "name": "Begum Hazrat Mahal National Scholarship",
+      "category": "scholarship",
+      "gender": "girls_only",
+      "income": "income_limited",
+      "time": "school_level",
+      "features": [
+        "For minority girl students",
+        "School support"
+      ],
+      "pros": [
+        "Helps retention in school"
+      ],
+      "cons": [
+        "Restricted to minority girls"
+      ]
+    },
+    {
+      "name": "Central Sector Interest Subsidy (CSIS)",
+      "category": "interest_subsidy",
+      "gender": "all",
+      "income": "up_to_4_5_lakh",
+      "time": "course_period_plus_moratorium",
+      "features": [
+        "Government pays interest during study/moratorium"
+      ],
+      "pros": [
+        "Large repayment relief"
+      ],
+      "cons": [
+        "Usually limited to eligible technical/professional courses"
+      ]
+    },
+    {
+      "name": "Central Sector Interest Subsidy Scheme (CSIS)",
+      "link": "https://www.education.gov.in/en/central-scheme-provide-interest-subsidy-csis-educational-loans",
+      "description": "Provides interest subsidy on education loans where government pays interest during the moratorium period.",
+      "features": [
+        "Applicable for professional and technical courses in India",
+        "Family income limit ₹4.5 lakh per year",
+        "Interest paid by government during study period (course duration + 1 year)"
+      ],
+      "eligibility_criteria": [
+        "Must belong to Economically Weaker Section (EWS)",
+        "Family income ≤ ₹4.5 lakh per year",
+        "Loan from scheduled bank in India",
+        "Enrolled in recognized professional/technical course"
+      ]
+    },
+    {
+      "name": "Central Sector Scheme of Scholarship for College and University Students",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "typically_up_to_8_lakh",
+      "time": "after_class_12",
+      "features": [
+        "Merit-based support for UG/PG students",
+        "College and university funding"
+      ],
+      "pros": [
+        "Good for strong academic performers",
+        "Useful for middle-income families"
+      ],
+      "cons": [
+        "Competitive",
+        "Board-performance dependent"
+      ]
+    },
+    {
+      "name": "Central Sector Scholarship Scheme (PM-USP)",
+      "link": "https://scholarships.gov.in",
+      "description": "Financial assistance to meritorious students from low-income families.",
+      "features": [
+        "Family income limit ₹4.5 lakh per year",
+        "₹12,000/year for UG students",
+        "₹20,000/year for PG students"
+      ],
+      "eligibility_criteria": [
+        "Top 20% of Class 12 board results",
+        "Family income ≤ ₹4.5 lakh per year",
+        "Regular UG/PG course in recognized institution",
+        "Maintain good academic performance"
+      ]
+    },
+    {
+      "name": "Credit Guarantee Fund Scheme for Education Loans (CGFSEL)",
+      "link": "https://www.education.gov.in/en/scholarships-education-loan-4",
+      "description": "Allows banks to provide loans without collateral because the government provides guarantee support.",
+      "features": [
+        "Loans up to ₹7.5 lakh",
+        "No collateral required",
+        "Government guarantee support to banks"
+      ],
+      "eligibility_criteria": [
+        "Apply through participating bank",
+        "Loan amount generally up to ₹7.5 lakh",
+        "Admitted to recognized higher education course",
+        "Follows IBA education loan guidelines"
+      ]
+    },
+    {
+      "name": "Digital India Programme",
+      "link": "https://www.digitalindia.gov.in/",
+      "description": "Umbrella programme to transform India into a digitally empowered society with e-governance and digital literacy.",
+      "eligibility": "All Citizens"
+    },
+    {
+      "name": "Dr. Ambedkar Central Sector Scheme of Interest Subsidy",
+      "category": "interest_subsidy",
+      "gender": "all",
+      "income": "category_based",
+      "time": "pg_mphil_phd",
+      "features": [
+        "Interest subsidy for higher studies"
+      ],
+      "pros": [
+        "Useful for advanced study"
+      ],
+      "cons": [
+        "Category-restricted"
+      ]
+    },
+    {
+      "name": "HDFC Bank Parivartan ECSS",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "often_under_2_5_lakh",
+      "time": "class_1_to_pg",
+      "features": [
+        "Crisis-oriented aid",
+        "Supports school to PG students"
+      ],
+      "pros": [
+        "Broad level coverage"
+      ],
+      "cons": [
+        "Needs proof of financial crisis"
+      ]
+    },
+    {
+      "name": "HDFC Educational Crisis Scholarship",
+      "link": null,
+      "provider": "HDFC Bank",
+      "description": "For students facing financial crisis due to loss of parent, medical emergency, or natural disaster.",
+      "eligibility_criteria": [
+        "Applicant must be an Indian student studying in school or college.",
+        "Must face sudden financial crisis such as: Loss of parent/guardian, Serious illness, or Natural disaster.",
+        "Must show proof of financial hardship."
+      ]
+    },
+    {
+      "name": "Indira Gandhi Single Girl Child Scholarship",
+      "category": "scholarship",
+      "gender": "girls_only",
+      "income": "not_always_income_based",
+      "time": "pg_or_phd",
+      "features": [
+        "For single girl child families",
+        "Supports advanced study"
+      ],
+      "pros": [
+        "Good for higher education"
+      ],
+      "cons": [
+        "Very specific family condition"
+      ]
+    },
+    {
+      "name": "INSPIRE Scholarship",
+      "link": "https://online-inspire.gov.in/",
+      "provider": "DST, Govt. of India",
+      "description": "For students pursuing BSc, BS, or integrated MS courses in natural and basic sciences.",
+      "eligibility_criteria": [
+        "Student must be among the top 1% performers in Class 12 board examinations.",
+        "Must pursue BSc, BS, or Integrated MSc/MS in natural sciences.",
+        "Course must be taken in a recognized university or institute in India.",
+        "Age generally between 17-22 years."
+      ]
+    },
+    {
+      "name": "Ishan Uday Scholarship",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "income_conditions_apply",
+      "time": "ug_in_north_east",
+      "features": [
+        "Support for North-Eastern region students"
+      ],
+      "pros": [
+        "Regional higher-education support"
+      ],
+      "cons": [
+        "Restricted to NE students"
+      ]
+    },
+    {
+      "name": "Kasturba Gandhi Balika Vidyalaya (KGBV)",
+      "category": "residential_support_program",
+      "gender": "girls_only",
+      "income": "disadvantaged_families",
+      "time": "age_10_to_18",
+      "features": [
+        "Residential schooling",
+        "Meals, books, uniforms"
+      ],
+      "pros": [
+        "Very strong support for rural girls"
+      ],
+      "cons": [
+        "Not direct cash support",
+        "Location-limited"
+      ]
+    },
+    {
+      "name": "Kishore Vaigyanik Protsahan Yojana",
+      "link": null,
+      "provider": "IISc Bangalore",
+      "description": "Fellowship to encourage students to take up research careers in science and technology.",
+      "eligibility_criteria": [
+        "Student must have strong interest in science research.",
+        "Must be studying in Class 11, 12, or undergraduate science courses.",
+        "Must qualify the KVPY aptitude test and interview.",
+        "Must maintain required minimum marks in science subjects."
+      ]
+    },
+    {
+      "name": "Kotak Kanya Scholarship",
+      "category": "scholarship",
+      "gender": "girls_only",
+      "income": "merit_cum_means",
+      "time": "ug_professional_courses",
+      "features": [
+        "Supports girl students in higher education"
+      ],
+      "pros": [
+        "High-value girl-focused aid"
+      ],
+      "cons": [
+        "Highly selective"
+      ]
+    },
+    {
+      "name": "L'Oréal India For Young Women in Science Scholarship",
+      "category": "scholarship",
+      "gender": "women_only",
+      "income": "merit_based",
+      "time": "ug_to_phd",
+      "features": [
+        "For women in science education"
+      ],
+      "pros": [
+        "Strong STEM support"
+      ],
+      "cons": [
+        "Restricted to science streams"
+      ]
+    },
+    {
+      "name": "Merit-cum-Means Scholarship for Professional and Technical Courses",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "income_limited",
+      "time": "professional_technical_ug",
+      "features": [
+        "Tuition and maintenance support",
+        "For professional courses"
+      ],
+      "pros": [
+        "Useful for engineering and similar programs"
+      ],
+      "cons": [
+        "Needs strong marks and eligibility compliance"
+      ]
+    },
+    {
+      "name": "National Means-cum-Merit Scholarship (NMMS)",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "economically_weaker_students",
+      "time": "after_class_8",
+      "features": [
+        "Helps students continue secondary education",
+        "Merit plus means support"
+      ],
+      "pros": [
+        "Reduces dropout risk",
+        "Useful for middle-school transition"
+      ],
+      "cons": [
+        "Competitive"
+      ]
+    },
+    {
+      "name": "National Scholarship Portal (NSP)",
+      "link": "https://scholarships.gov.in/",
+      "provider": "Government of India",
+      "description": "Central portal for all government scholarship schemes including pre-matric, post-matric and merit-cum-means.",
+      "eligibility_criteria": [
+        "Applicant must be an Indian citizen.",
+        "Must be studying in recognized schools or colleges in India.",
+        "Family income limit depends on the specific scholarship scheme.",
+        "Student must satisfy academic performance requirements.",
+        "Aadhaar number and bank account are usually required."
+      ]
+    },
+    {
+      "name": "National Scholarship Portal (NSP) schemes",
+      "category": "scholarship_portal",
+      "gender": "all",
+      "income": "varies by scheme",
+      "time": "school_to_pg",
+      "features": [
+        "Single portal for central and state scholarships",
+        "Application tracking and disbursal",
+        "Covers multiple education stages"
+      ],
+      "pros": [
+        "Centralized and easy to search",
+        "Broad coverage",
+        "Useful for many student groups"
+      ],
+      "cons": [
+        "Rules vary by scheme",
+        "Can be confusing",
+        "Documentation differs by program"
+      ]
+    },
+    {
+      "name": "NSDC training courses",
+      "category": "skill_program",
+      "gender": "all",
+      "income": "open",
+      "time": "short_to_medium_term",
+      "features": [
+        "Vocational and industry-aligned courses"
+      ],
+      "pros": [
+        "Practical and career-focused"
+      ],
+      "cons": [
+        "Not direct financial aid"
+      ]
+    },
+    {
+      "name": "PM Kisan Samman Nidhi",
+      "link": "https://pmkisan.gov.in/",
+      "description": "₹6,000/year financial support to farmer families across India in three equal installments of ₹2,000 each.",
+      "eligibility": "Small & Marginal Farmers"
+    },
+    {
+      "name": "PM Vidyalaxmi / PM-Vidyalakshmi",
+      "category": "loan_platform",
+      "gender": "all",
+      "income": "depends_on_linked_scheme",
+      "time": "higher_education",
+      "features": [
+        "Compare and apply to multiple banks",
+        "Education loan platform"
+      ],
+      "pros": [
+        "Simplifies loan application"
+      ],
+      "cons": [
+        "Approval still depends on bank rules"
+      ]
+    },
+    {
+      "name": "PM-Vidyalaxmi Scheme",
+      "link": "https://www.education.gov.in/en/scholarships-education-loan-4",
+      "description": "Provides collateral-free and guarantor-free education loans to students pursuing higher education in India.",
+      "features": [
+        "Education loans up to ₹10 lakh",
+        "3% interest subsidy for families with income up to ₹8 lakh per year",
+        "Online application through the Vidya Lakshmi portal"
+      ],
+      "eligibility_criteria": [
+        "Indian citizen",
+        "Admission in recognized higher education institution in India based on merit/entrance",
+        "Application through Vidya Lakshmi Portal",
+        "Family income up to ₹8 lakh for subsidy"
+      ]
+    },
+    {
+      "name": "PM-YASASVI / OBC-EBC-DNT scholarships",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "category_and_income_based",
+      "time": "class_9_to_11",
+      "features": [
+        "Support for OBC, EBC, and DNT students",
+        "School-level financial assistance"
+      ],
+      "pros": [
+        "Helpful for school continuity",
+        "Supports underrepresented groups"
+      ],
+      "cons": [
+        "Restricted to eligible categories"
+      ]
+    },
+    {
+      "name": "PMKVY-style programs",
+      "category": "skill_program",
+      "gender": "all",
+      "income": "open",
+      "time": "youth_and_job_seekers",
+      "features": [
+        "Certification and placement-oriented training"
+      ],
+      "pros": [
+        "Good for entry-level jobs"
+      ],
+      "cons": [
+        "Placement support varies"
+      ]
+    },
+    {
+      "name": "Post-Matric Minority Scholarship",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "income_based",
+      "time": "class_11_onward",
+      "features": [
+        "For minority students in higher classes and college"
+      ],
+      "pros": [
+        "Useful for continued education"
+      ],
+      "cons": [
+        "Needs minority certificate and documents"
+      ]
+    },
+    {
+      "name": "Post-Matric SC/ST Scholarship",
+      "link": "https://scholarships.gov.in/",
+      "provider": "Ministry of Social Justice",
+      "description": "Covers tuition fees, maintenance allowance, and other expenses for SC/ST category students.",
+      "eligibility_criteria": [
+        "Applicant must belong to SC or ST category.",
+        "Must be studying in post-matric courses (Class 11 and above).",
+        "Family income should generally be below 2.5 lakh per year (may vary slightly by state).",
+        "Student must be enrolled in a recognized institution."
+      ]
+    },
+    {
+      "name": "Post-Matric Scholarship for Students with Disabilities",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "income_based",
+      "time": "class_11_onward",
+      "features": [
+        "Support for benchmark disabilities",
+        "Education-cost assistance"
+      ],
+      "pros": [
+        "Important accessibility support"
+      ],
+      "cons": [
+        "Needs disability certification"
+      ]
+    },
+    {
+      "name": "Pragati Scholarship Scheme for Girl Students",
+      "category": "scholarship",
+      "gender": "girls_only",
+      "income": "typically_up_to_8_lakh",
+      "time": "aicte_technical_diploma_or_degree",
+      "features": [
+        "For girl students in technical education",
+        "Annual support"
+      ],
+      "pros": [
+        "Excellent for girls in technical fields"
+      ],
+      "cons": [
+        "Only for AICTE-approved institutions",
+        "Limited seats"
+      ]
+    },
+    {
+      "name": "Pre-Matric Minority Scholarship",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "income_based",
+      "time": "school_level",
+      "features": [
+        "For minority community students"
+      ],
+      "pros": [
+        "Helps prevent dropouts"
+      ],
+      "cons": [
+        "Community-restricted"
+      ]
+    },
+    {
+      "name": "Prime Minister’s Scholarship Schemes",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "varies_by_subscheme",
+      "time": "higher_education",
+      "features": [
+        "For wards of CAPF, police martyrs, APS, and similar groups"
+      ],
+      "pros": [
+        "Strong support for service families"
+      ],
+      "cons": [
+        "Restricted beneficiary groups"
+      ]
+    },
+    {
+      "name": "Reliance Foundation Postgraduate Scholarship",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "merit_cum_means",
+      "time": "pg_selected_fields",
+      "features": [
+        "Support for selected PG fields",
+        "High-value aid"
+      ],
+      "pros": [
+        "Strong funding for advanced study"
+      ],
+      "cons": [
+        "Limited disciplines",
+        "Few seats"
+      ],
+      "eligibility_criteria": [
+        "Applicant must be an Indian citizen.",
+        "Must be enrolled in undergraduate degree programs.",
+        "Must demonstrate merit and leadership potential.",
+        "Family income limit generally around 15 lakh per year."
+      ],
+      "link": "https://reliancefoundation.org/"
+    },
+    {
+      "name": "Reliance Foundation Scholarship",
+      "link": "https://reliancefoundation.org/",
+      "provider": "Reliance Foundation",
+      "description": "Merit-cum-means scholarship for undergraduate students across India in top institutions."
+    },
+    {
+      "name": "Reliance Foundation Undergraduate Scholarship",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "low_to_middle_income",
+      "time": "first_year_ug",
+      "features": [
+        "Up to 2 lakh over the degree",
+        "Merit-cum-means",
+        "Multi-year support"
+      ],
+      "pros": [
+        "High value",
+        "Prestigious",
+        "Pan-India"
+      ],
+      "cons": [
+        "Very competitive",
+        "First-year only"
+      ]
+    },
+    {
+      "name": "Santoor Women's Scholarship",
+      "category": "scholarship",
+      "gender": "women_only",
+      "income": "need_based",
+      "time": "ug",
+      "features": [
+        "Supports women from underprivileged backgrounds"
+      ],
+      "pros": [
+        "Helpful for first-generation learners"
+      ],
+      "cons": [
+        "Limited seats",
+        "May have geography restrictions"
+      ]
+    },
+    {
+      "name": "Sitaram Jindal Foundation",
+      "link": "https://www.sitaramjindalfoundation.org/",
+      "provider": "Jindal Foundation",
+      "description": "Monthly scholarships for students from economically disadvantaged backgrounds across all levels.",
+      "eligibility_criteria": [
+        "Applicant must be an Indian student.",
+        "Must belong to economically weaker background.",
+        "Must have minimum required academic marks depending on education level.",
+        "Scholarship available for school, college, and professional courses."
+      ]
+    },
+    {
+      "name": "Skill India Mission",
+      "category": "skill_program",
+      "gender": "all",
+      "income": "open",
+      "time": "short_term_to_job_ready",
+      "features": [
+        "National skilling ecosystem",
+        "Certifications and training"
+      ],
+      "pros": [
+        "Strong employability focus"
+      ],
+      "cons": [
+        "Quality varies by provider"
+      ]
+    },
+    {
+      "name": "Startup India Scheme",
+      "link": "https://www.startupindia.gov.in/",
+      "description": "Tax exemptions, funding support, and simplified compliance for DPIIT-recognized startups in India.",
+      "eligibility": "DPIIT Recognized Startups"
+    },
+    {
+      "name": "Sukanya Samriddhi Yojana",
+      "link": "https://india.gov.in",
+      "description": "Savings scheme for girl child with high interest rate of 8.2% and tax benefits under Section 80C.",
+      "eligibility": "Girl Child (0-10 yrs)"
+    },
+    {
+      "name": "Swami Vivekananda Scholarship",
+      "link": null,
+      "provider": "West Bengal Govt",
+      "description": "State government scholarship for meritorious students from economically weaker sections.",
+      "eligibility_criteria": [
+        "Student must be a resident of West Bengal.",
+        "Must have minimum required marks in previous examination (usually around 60%).",
+        "Family income should be below 2.5 lakh per year.",
+        "Must be studying in recognized institutions."
+      ]
+    },
+    {
+      "name": "Swanath Scholarship Scheme",
+      "category": "scholarship",
+      "gender": "all",
+      "income": "need_based",
+      "time": "diploma_or_degree",
+      "features": [
+        "For orphans and vulnerable students",
+        "Social protection support"
+      ],
+      "pros": [
+        "Useful for difficult family situations"
+      ],
+      "cons": [
+        "Narrow eligibility",
+        "Documentation-heavy"
+      ]
+    },
+    {
+      "name": "Tata Trusts Scholarships",
+      "link": "https://www.tatatrusts.org/",
+      "provider": "Tata Trusts",
+      "description": "Need-based scholarships covering tuition, living expenses, and books for meritorious students.",
+      "eligibility_criteria": [
+        "Applicant must be an Indian student.",
+        "Must show financial need.",
+        "Must have good academic performance.",
+        "Admission must be in recognized institutions in India or abroad."
+      ]
+    },
+    {
+      "name": "Vidya Lakshmi Portal",
+      "link": "https://www.vidyalakshmi.co.in",
+      "description": "A government platform to apply for education loans from multiple banks using one application.",
+      "eligibility_criteria": [
+        "Register on portal",
+        "Fill Common Education Loan Application Form (CELAF)",
+        "Confirmed admission in recognized institution",
+        "Submission of ID proof, academic records, and admission proof"
+      ]
+    }
+  ],
+  "source_data": {
+    "Govt_Schemes": {
+      "note": "Converted from the detailed scheme lists above. Since the source lists were broad and some fields were approximate, I kept values as structured as possible without inventing extra precision.",
+      "schemes": [
+        {
+          "name": "National Scholarship Portal (NSP) schemes",
+          "category": "scholarship_portal",
+          "gender": "all",
+          "income": "varies by scheme",
+          "time": "school_to_pg",
+          "features": [
+            "Single portal for central and state scholarships",
+            "Application tracking and disbursal",
+            "Covers multiple education stages"
+          ],
+          "pros": [
+            "Centralized and easy to search",
+            "Broad coverage",
+            "Useful for many student groups"
+          ],
+          "cons": [
+            "Rules vary by scheme",
+            "Can be confusing",
+            "Documentation differs by program"
+          ]
+        },
+        {
+          "name": "PM-YASASVI / OBC-EBC-DNT scholarships",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "category_and_income_based",
+          "time": "class_9_to_11",
+          "features": [
+            "Support for OBC, EBC, and DNT students",
+            "School-level financial assistance"
+          ],
+          "pros": [
+            "Helpful for school continuity",
+            "Supports underrepresented groups"
+          ],
+          "cons": [
+            "Restricted to eligible categories"
+          ]
+        },
+        {
+          "name": "National Means-cum-Merit Scholarship (NMMS)",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "economically_weaker_students",
+          "time": "after_class_8",
+          "features": [
+            "Helps students continue secondary education",
+            "Merit plus means support"
+          ],
+          "pros": [
+            "Reduces dropout risk",
+            "Useful for middle-school transition"
+          ],
+          "cons": [
+            "Competitive"
+          ]
+        },
+        {
+          "name": "Central Sector Scheme of Scholarship for College and University Students",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "typically_up_to_8_lakh",
+          "time": "after_class_12",
+          "features": [
+            "Merit-based support for UG/PG students",
+            "College and university funding"
+          ],
+          "pros": [
+            "Good for strong academic performers",
+            "Useful for middle-income families"
+          ],
+          "cons": [
+            "Competitive",
+            "Board-performance dependent"
+          ]
+        },
+        {
+          "name": "Ishan Uday Scholarship",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "income_conditions_apply",
+          "time": "ug_in_north_east",
+          "features": [
+            "Support for North-Eastern region students"
+          ],
+          "pros": [
+            "Regional higher-education support"
+          ],
+          "cons": [
+            "Restricted to NE students"
+          ]
+        },
+        {
+          "name": "Merit-cum-Means Scholarship for Professional and Technical Courses",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "income_limited",
+          "time": "professional_technical_ug",
+          "features": [
+            "Tuition and maintenance support",
+            "For professional courses"
+          ],
+          "pros": [
+            "Useful for engineering and similar programs"
+          ],
+          "cons": [
+            "Needs strong marks and eligibility compliance"
+          ]
+        },
+        {
+          "name": "Post-Matric Scholarship for Students with Disabilities",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "income_based",
+          "time": "class_11_onward",
+          "features": [
+            "Support for benchmark disabilities",
+            "Education-cost assistance"
+          ],
+          "pros": [
+            "Important accessibility support"
+          ],
+          "cons": [
+            "Needs disability certification"
+          ]
+        },
+        {
+          "name": "Prime Minister’s Scholarship Schemes",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "varies_by_subscheme",
+          "time": "higher_education",
+          "features": [
+            "For wards of CAPF, police martyrs, APS, and similar groups"
+          ],
+          "pros": [
+            "Strong support for service families"
+          ],
+          "cons": [
+            "Restricted beneficiary groups"
+          ]
+        },
+        {
+          "name": "Swanath Scholarship Scheme",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "need_based",
+          "time": "diploma_or_degree",
+          "features": [
+            "For orphans and vulnerable students",
+            "Social protection support"
+          ],
+          "pros": [
+            "Useful for difficult family situations"
+          ],
+          "cons": [
+            "Narrow eligibility",
+            "Documentation-heavy"
+          ]
+        },
+        {
+          "name": "Pragati Scholarship Scheme for Girl Students",
+          "category": "scholarship",
+          "gender": "girls_only",
+          "income": "typically_up_to_8_lakh",
+          "time": "aicte_technical_diploma_or_degree",
+          "features": [
+            "For girl students in technical education",
+            "Annual support"
+          ],
+          "pros": [
+            "Excellent for girls in technical fields"
+          ],
+          "cons": [
+            "Only for AICTE-approved institutions",
+            "Limited seats"
+          ]
+        },
+        {
+          "name": "Indira Gandhi Single Girl Child Scholarship",
+          "category": "scholarship",
+          "gender": "girls_only",
+          "income": "not_always_income_based",
+          "time": "pg_or_phd",
+          "features": [
+            "For single girl child families",
+            "Supports advanced study"
+          ],
+          "pros": [
+            "Good for higher education"
+          ],
+          "cons": [
+            "Very specific family condition"
+          ]
+        },
+        {
+          "name": "Begum Hazrat Mahal National Scholarship",
+          "category": "scholarship",
+          "gender": "girls_only",
+          "income": "income_limited",
+          "time": "school_level",
+          "features": [
+            "For minority girl students",
+            "School support"
+          ],
+          "pros": [
+            "Helps retention in school"
+          ],
+          "cons": [
+            "Restricted to minority girls"
+          ]
+        },
+        {
+          "name": "Kasturba Gandhi Balika Vidyalaya (KGBV)",
+          "category": "residential_support_program",
+          "gender": "girls_only",
+          "income": "disadvantaged_families",
+          "time": "age_10_to_18",
+          "features": [
+            "Residential schooling",
+            "Meals, books, uniforms"
+          ],
+          "pros": [
+            "Very strong support for rural girls"
+          ],
+          "cons": [
+            "Not direct cash support",
+            "Location-limited"
+          ]
+        },
+        {
+          "name": "Pre-Matric Minority Scholarship",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "income_based",
+          "time": "school_level",
+          "features": [
+            "For minority community students"
+          ],
+          "pros": [
+            "Helps prevent dropouts"
+          ],
+          "cons": [
+            "Community-restricted"
+          ]
+        },
+        {
+          "name": "Post-Matric Minority Scholarship",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "income_based",
+          "time": "class_11_onward",
+          "features": [
+            "For minority students in higher classes and college"
+          ],
+          "pros": [
+            "Useful for continued education"
+          ],
+          "cons": [
+            "Needs minority certificate and documents"
+          ]
+        },
+        {
+          "name": "Reliance Foundation Undergraduate Scholarship",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "low_to_middle_income",
+          "time": "first_year_ug",
+          "features": [
+            "Up to 2 lakh over the degree",
+            "Merit-cum-means",
+            "Multi-year support"
+          ],
+          "pros": [
+            "High value",
+            "Prestigious",
+            "Pan-India"
+          ],
+          "cons": [
+            "Very competitive",
+            "First-year only"
+          ]
+        },
+        {
+          "name": "Reliance Foundation Postgraduate Scholarship",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "merit_cum_means",
+          "time": "pg_selected_fields",
+          "features": [
+            "Support for selected PG fields",
+            "High-value aid"
+          ],
+          "pros": [
+            "Strong funding for advanced study"
+          ],
+          "cons": [
+            "Limited disciplines",
+            "Few seats"
+          ]
+        },
+        {
+          "name": "HDFC Bank Parivartan ECSS",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "often_under_2_5_lakh",
+          "time": "class_1_to_pg",
+          "features": [
+            "Crisis-oriented aid",
+            "Supports school to PG students"
+          ],
+          "pros": [
+            "Broad level coverage"
+          ],
+          "cons": [
+            "Needs proof of financial crisis"
+          ]
+        },
+        {
+          "name": "Aditya Birla Capital Scholarship",
+          "category": "scholarship",
+          "gender": "all",
+          "income": "need_based_and_merit_based",
+          "time": "school_to_pg",
+          "features": [
+            "One-time financial support"
+          ],
+          "pros": [
+            "Useful for partial fee support"
+          ],
+          "cons": [
+            "Usually not full-cost funding"
+          ]
+        },
+        {
+          "name": "Kotak Kanya Scholarship",
+          "category": "scholarship",
+          "gender": "girls_only",
+          "income": "merit_cum_means",
+          "time": "ug_professional_courses",
+          "features": [
+            "Supports girl students in higher education"
+          ],
+          "pros": [
+            "High-value girl-focused aid"
+          ],
+          "cons": [
+            "Highly selective"
+          ]
+        },
+        {
+          "name": "L'Oréal India For Young Women in Science Scholarship",
+          "category": "scholarship",
+          "gender": "women_only",
+          "income": "merit_based",
+          "time": "ug_to_phd",
+          "features": [
+            "For women in science education"
+          ],
+          "pros": [
+            "Strong STEM support"
+          ],
+          "cons": [
+            "Restricted to science streams"
+          ]
+        },
+        {
+          "name": "Santoor Women's Scholarship",
+          "category": "scholarship",
+          "gender": "women_only",
+          "income": "need_based",
+          "time": "ug",
+          "features": [
+            "Supports women from underprivileged backgrounds"
+          ],
+          "pros": [
+            "Helpful for first-generation learners"
+          ],
+          "cons": [
+            "Limited seats",
+            "May have geography restrictions"
+          ]
+        },
+        {
+          "name": "Central Sector Interest Subsidy (CSIS)",
+          "category": "interest_subsidy",
+          "gender": "all",
+          "income": "up_to_4_5_lakh",
+          "time": "course_period_plus_moratorium",
+          "features": [
+            "Government pays interest during study/moratorium"
+          ],
+          "pros": [
+            "Large repayment relief"
+          ],
+          "cons": [
+            "Usually limited to eligible technical/professional courses"
+          ]
+        },
+        {
+          "name": "Dr. Ambedkar Central Sector Scheme of Interest Subsidy",
+          "category": "interest_subsidy",
+          "gender": "all",
+          "income": "category_based",
+          "time": "pg_mphil_phd",
+          "features": [
+            "Interest subsidy for higher studies"
+          ],
+          "pros": [
+            "Useful for advanced study"
+          ],
+          "cons": [
+            "Category-restricted"
+          ]
+        },
+        {
+          "name": "PM Vidyalaxmi / PM-Vidyalakshmi",
+          "category": "loan_platform",
+          "gender": "all",
+          "income": "depends_on_linked_scheme",
+          "time": "higher_education",
+          "features": [
+            "Compare and apply to multiple banks",
+            "Education loan platform"
+          ],
+          "pros": [
+            "Simplifies loan application"
+          ],
+          "cons": [
+            "Approval still depends on bank rules"
+          ]
+        },
+        {
+          "name": "Bank education loans under IBA norms",
+          "category": "loan",
+          "gender": "all",
+          "income": "varies",
+          "time": "ug_to_abroad",
+          "features": [
+            "Loans for higher education",
+            "Collateral and moratorium rules vary"
+          ],
+          "pros": [
+            "Can fund large education costs"
+          ],
+          "cons": [
+            "Interest burden without subsidy"
+          ]
+        },
+        {
+          "name": "Skill India Mission",
+          "category": "skill_program",
+          "gender": "all",
+          "income": "open",
+          "time": "short_term_to_job_ready",
+          "features": [
+            "National skilling ecosystem",
+            "Certifications and training"
+          ],
+          "pros": [
+            "Strong employability focus"
+          ],
+          "cons": [
+            "Quality varies by provider"
+          ]
+        },
+        {
+          "name": "NSDC training courses",
+          "category": "skill_program",
+          "gender": "all",
+          "income": "open",
+          "time": "short_to_medium_term",
+          "features": [
+            "Vocational and industry-aligned courses"
+          ],
+          "pros": [
+            "Practical and career-focused"
+          ],
+          "cons": [
+            "Not direct financial aid"
+          ]
+        },
+        {
+          "name": "PMKVY-style programs",
+          "category": "skill_program",
+          "gender": "all",
+          "income": "open",
+          "time": "youth_and_job_seekers",
+          "features": [
+            "Certification and placement-oriented training"
+          ],
+          "pros": [
+            "Good for entry-level jobs"
+          ],
+          "cons": [
+            "Placement support varies"
+          ]
+        }
+      ]
+    },
+    "Govt_Dot_Schemes": {
+      "government_schemes": [
+        {
+          "name": "PM Kisan Samman Nidhi",
+          "link": "https://pmkisan.gov.in/",
+          "description": "₹6,000/year financial support to farmer families across India in three equal installments of ₹2,000 each.",
+          "eligibility": "Small & Marginal Farmers"
+        },
+        {
+          "name": "Ayushman Bharat Yojana",
+          "link": "https://pmjay.gov.in/",
+          "description": "Free health insurance of ₹5 lakh per family for secondary and tertiary hospitalization at empanelled hospitals.",
+          "eligibility": "BPL Families"
+        },
+        {
+          "name": "Sukanya Samriddhi Yojana",
+          "link": "https://india.gov.in",
+          "description": "Savings scheme for girl child with high interest rate of 8.2% and tax benefits under Section 80C.",
+          "eligibility": "Girl Child (0-10 yrs)"
+        },
+        {
+          "name": "Startup India Scheme",
+          "link": "https://www.startupindia.gov.in/",
+          "description": "Tax exemptions, funding support, and simplified compliance for DPIIT-recognized startups in India.",
+          "eligibility": "DPIIT Recognized Startups"
+        },
+        {
+          "name": "Digital India Programme",
+          "link": "https://www.digitalindia.gov.in/",
+          "description": "Umbrella programme to transform India into a digitally empowered society with e-governance and digital literacy.",
+          "eligibility": "All Citizens"
+        }
+      ],
+      "scholarships": {
+        "government": [
+          {
+            "name": "National Scholarship Portal (NSP)",
+            "link": "https://scholarships.gov.in/",
+            "provider": "Government of India",
+            "description": "Central portal for all government scholarship schemes including pre-matric, post-matric and merit-cum-means."
+          },
+          {
+            "name": "INSPIRE Scholarship",
+            "link": "https://online-inspire.gov.in/",
+            "provider": "DST, Govt. of India",
+            "description": "For students pursuing BSc, BS, or integrated MS courses in natural and basic sciences."
+          },
+          {
+            "name": "Post-Matric SC/ST Scholarship",
+            "link": "https://scholarships.gov.in/",
+            "provider": "Ministry of Social Justice",
+            "description": "Covers tuition fees, maintenance allowance, and other expenses for SC/ST category students."
+          },
+          {
+            "name": "AICTE Pragati Scholarship",
+            "link": "https://www.aicte.gov.in/",
+            "provider": "AICTE",
+            "description": "Scholarship for girl students pursuing technical education in AICTE approved colleges."
+          },
+          {
+            "name": "Kishore Vaigyanik Protsahan Yojana",
+            "link": null,
+            "provider": "IISc Bangalore",
+            "description": "Fellowship to encourage students to take up research careers in science and technology."
+          },
+          {
+            "name": "Swami Vivekananda Scholarship",
+            "link": null,
+            "provider": "West Bengal Govt",
+            "description": "State government scholarship for meritorious students from economically weaker sections."
+          }
+        ],
+        "private": [
+          {
+            "name": "Tata Trusts Scholarships",
+            "link": "https://www.tatatrusts.org/",
+            "provider": "Tata Trusts",
+            "description": "Need-based scholarships covering tuition, living expenses, and books for meritorious students."
+          },
+          {
+            "name": "Reliance Foundation Scholarship",
+            "link": "https://reliancefoundation.org/",
+            "provider": "Reliance Foundation",
+            "description": "Merit-cum-means scholarship for undergraduate students across India in top institutions."
+          },
+          {
+            "name": "Sitaram Jindal Foundation",
+            "link": "https://www.sitaramjindalfoundation.org/",
+            "provider": "Jindal Foundation",
+            "description": "Monthly scholarships for students from economically disadvantaged backgrounds across all levels."
+          },
+          {
+            "name": "HDFC Educational Crisis Scholarship",
+            "link": null,
+            "provider": "HDFC Bank",
+            "description": "For students facing financial crisis due to loss of parent, medical emergency, or natural disaster."
+          }
+        ]
+      },
+      "education_financial_facilities": [
+        {
+          "name": "PM-Vidyalaxmi Scheme",
+          "link": "https://www.education.gov.in/en/scholarships-education-loan-4",
+          "description": "Provides collateral-free and guarantor-free education loans to students pursuing higher education in India.",
+          "features": [
+            "Education loans up to ₹10 lakh",
+            "3% interest subsidy for families with income up to ₹8 lakh per year",
+            "Online application through the Vidya Lakshmi portal"
+          ],
+          "eligibility_criteria": [
+            "Indian citizen",
+            "Admission in recognized higher education institution in India based on merit/entrance",
+            "Application through Vidya Lakshmi Portal",
+            "Family income up to ₹8 lakh for subsidy"
+          ]
+        },
+        {
+          "name": "Central Sector Interest Subsidy Scheme (CSIS)",
+          "link": "https://www.education.gov.in/en/central-scheme-provide-interest-subsidy-csis-educational-loans",
+          "description": "Provides interest subsidy on education loans where government pays interest during the moratorium period.",
+          "features": [
+            "Applicable for professional and technical courses in India",
+            "Family income limit ₹4.5 lakh per year",
+            "Interest paid by government during study period (course duration + 1 year)"
+          ],
+          "eligibility_criteria": [
+            "Must belong to Economically Weaker Section (EWS)",
+            "Family income ≤ ₹4.5 lakh per year",
+            "Loan from scheduled bank in India",
+            "Enrolled in recognized professional/technical course"
+          ]
+        },
+        {
+          "name": "Credit Guarantee Fund Scheme for Education Loans (CGFSEL)",
+          "link": "https://www.education.gov.in/en/scholarships-education-loan-4",
+          "description": "Allows banks to provide loans without collateral because the government provides guarantee support.",
+          "features": [
+            "Loans up to ₹7.5 lakh",
+            "No collateral required",
+            "Government guarantee support to banks"
+          ],
+          "eligibility_criteria": [
+            "Apply through participating bank",
+            "Loan amount generally up to ₹7.5 lakh",
+            "Admitted to recognized higher education course",
+            "Follows IBA education loan guidelines"
+          ]
+        },
+        {
+          "name": "Central Sector Scholarship Scheme (PM-USP)",
+          "link": "https://scholarships.gov.in",
+          "description": "Financial assistance to meritorious students from low-income families.",
+          "features": [
+            "Family income limit ₹4.5 lakh per year",
+            "₹12,000/year for UG students",
+            "₹20,000/year for PG students"
+          ],
+          "eligibility_criteria": [
+            "Top 20% of Class 12 board results",
+            "Family income ≤ ₹4.5 lakh per year",
+            "Regular UG/PG course in recognized institution",
+            "Maintain good academic performance"
+          ]
+        },
+        {
+          "name": "Vidya Lakshmi Portal",
+          "link": "https://www.vidyalakshmi.co.in",
+          "description": "A government platform to apply for education loans from multiple banks using one application.",
+          "eligibility_criteria": [
+            "Register on portal",
+            "Fill Common Education Loan Application Form (CELAF)",
+            "Confirmed admission in recognized institution",
+            "Submission of ID proof, academic records, and admission proof"
+          ]
+        }
+      ]
+    }
+  }
+}
