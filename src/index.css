@@ -21,7 +21,7 @@ body {
 /* Navbar */
 .navbar {
     background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0;
     z-index: 100;
@@ -91,7 +91,7 @@ body {
 
 .cta-button:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 /* Categories */
@@ -115,14 +115,14 @@ body {
     background-color: #fff;
     padding: 2rem;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     text-align: center;
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
 .category-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
 .category-card h3 {
@@ -328,7 +328,7 @@ body {
     background-color: #fff;
     padding: 2rem;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin-right: 2rem;
 }
 
@@ -382,7 +382,7 @@ body {
     background-color: #fff;
     padding: 1.5rem;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin-bottom: 1.5rem;
 }
 
@@ -507,23 +507,27 @@ body {
     max-width: 800px;
     margin: 0 auto;
 }
+
 .about-page h1 {
     color: #007bff;
     margin-bottom: 1.5rem;
     text-align: center;
 }
+
 .about-page p {
     margin-bottom: 2rem;
     font-size: 1.1rem;
     text-align: center;
 }
+
 .about-page section {
     background: #fff;
     padding: 2rem;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin-bottom: 2rem;
 }
+
 .about-page section h2 {
     color: #495057;
     margin-bottom: 1rem;
@@ -533,31 +537,37 @@ body {
 .contact-page {
     padding: 4rem 0;
 }
+
 .contact-page h1 {
     color: #007bff;
     margin-bottom: 1rem;
     text-align: center;
 }
-.contact-page > .container > p {
+
+.contact-page>.container>p {
     text-align: center;
     margin-bottom: 2rem;
 }
+
 .contact-form {
     max-width: 600px;
     margin: 0 auto;
     background: #fff;
     padding: 2rem;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+
 .form-group {
     margin-bottom: 1.5rem;
 }
+
 .form-group label {
     display: block;
     margin-bottom: 0.5rem;
     font-weight: 600;
 }
+
 .form-group input,
 .form-group textarea {
     width: 100%;
@@ -567,6 +577,7 @@ body {
     font-family: inherit;
     transition: border-color 0.3s;
 }
+
 .form-group input:focus,
 .form-group textarea:focus {
     border-color: #007bff;
@@ -582,19 +593,22 @@ body {
 .auth-page {
     padding: 4rem 0;
 }
+
 .auth-card {
     max-width: 450px;
     margin: 0 auto;
     background: #fff;
     padding: 2.5rem;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
 .auth-card h1 {
     color: #007bff;
     margin-bottom: 1.5rem;
     text-align: center;
 }
+
 .auth-switch {
     margin-top: 1.5rem;
     text-align: center;
@@ -610,18 +624,21 @@ body {
 .eligibility-page {
     padding: 4rem 0;
 }
+
 .split-layout {
     display: flex;
     gap: 3rem;
     align-items: flex-start;
 }
+
 .form-section {
     flex: 1;
     background: #fff;
     padding: 2rem;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+
 .results-section {
     flex: 1;
 }
@@ -633,6 +650,7 @@ body {
     border: none;
     cursor: pointer;
 }
+
 .btn-save:hover {
     background-color: #218838;
 }
@@ -671,13 +689,16 @@ body.dark .auth-card,
 body.dark .form-section,
 body.dark aside,
 body.dark .admin-page aside,
-body.dark .admin-page > div > div > div {
+body.dark .admin-page>div>div>div {
     background-color: #1e1e1e !important;
     color: #e0e0e0;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.3) !important;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3) !important;
 }
 
-body.dark h1, body.dark h2, body.dark h3, body.dark h4 {
+body.dark h1,
+body.dark h2,
+body.dark h3,
+body.dark h4 {
     color: #90caf9 !important;
 }
 
@@ -690,8 +711,8 @@ body.dark .scheme-badge {
     color: #aaa;
 }
 
-body.dark input, 
-body.dark select, 
+body.dark input,
+body.dark select,
 body.dark textarea {
     background-color: #333;
     color: #fff;
